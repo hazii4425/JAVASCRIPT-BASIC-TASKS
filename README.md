@@ -11,7 +11,7 @@ Welcome to my **JavaScript Basics** repository! Here, I document my learning jou
 - Variables and Constants (`var`, `let`, `const`)
 - Data Types (Numbers, Strings, Booleans, Objects, Arrays)
 - Operators (Arithmetic, Assignment, Comparison, Logical)
-- Conditional Statements (`if-else`, `switch-case`)
+- Conditional Statements (`if-else`)
 - Loop (`for`)
 - Basic Input/Output with  `alert`
 
